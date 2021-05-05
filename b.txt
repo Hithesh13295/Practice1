@@ -1,0 +1,4 @@
+This is second line 
+of b.txt
+added by hitesh
+this is third line
